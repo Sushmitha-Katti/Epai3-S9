@@ -1,12 +1,12 @@
 import pytest
 import random
-import session10
+import session9
 import os
 import inspect
 import re
 import math
 
-from session10 import *
+from session9 import *
 
 
 README_CONTENT_CHECK_FOR = ['namedtuple', 'profile', 'dictionary', 
